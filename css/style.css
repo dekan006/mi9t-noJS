@@ -277,6 +277,7 @@ video {
 
 .slider-3{
     position: relative;
+    overflow: hidden;
     
 }
 
